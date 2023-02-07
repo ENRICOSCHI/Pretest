@@ -20,8 +20,8 @@ int calcola_punteggio(int Q, char correct[], char candidate[]) {
 
 int main() {
 
-    freopen("2023-pretest_pretest-2_1675787124.txt", "r", stdin); // DECOMMENTA QUA SE VUOI LEGGERE DA FILE
-    freopen("outputProva1.txt", "w", stdout); // DECOMMENTA QUA SE VUOI SCRIVERE DA FILE
+   //freopen("input1.txt", "r", stdin); // DECOMMENTA QUA SE VUOI LEGGERE DA FILE
+   // freopen("output1.txt", "w", stdout); // DECOMMENTA QUA SE VUOI SCRIVERE DA FILE
 
     int N, Q,i;
     char correct[MAXN];
